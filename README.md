@@ -1,4 +1,4 @@
-### Hi there I'm Dan👋
+### Hi there I'm Dan👋 (TO BE UDPATED SOON)
 A creative Frontend Developer and I make pretty, useful things for people to use.
 
 For more information (to be updated soon): [khazifire.com](https://khazifire.com)
